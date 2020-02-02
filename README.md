@@ -1,2 +1,2 @@
 # TicTacToe
-A Tic Tac Toe game using React with TimeTravel
+A Tic Tac Toe game with TimeTravel
