@@ -1,2 +1,2 @@
 # TicTacToe
-A Tic Tac Toe game with TimeTravel
+A Tic Tac Toe game with Time Travel
